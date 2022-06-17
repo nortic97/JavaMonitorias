@@ -12,7 +12,7 @@ public class condicionales {
         
         double resta = a - b;
         
-        //condicional if a
+        //condicional if a desde perfil
         
         if(resta < 0){
             
