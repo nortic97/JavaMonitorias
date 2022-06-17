@@ -1,3 +1,5 @@
+package ejercisios.logica.condicionales;
+
 
 import java.util.Scanner;
 
