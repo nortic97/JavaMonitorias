@@ -12,7 +12,7 @@ public class condicionales {
         
         double resta = a - b;
         
-        //condicional if david
+        //condicional if
         
         if(resta < 0){
             
