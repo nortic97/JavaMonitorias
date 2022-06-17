@@ -9,6 +9,16 @@ public class AnimalModel {
     String grupo;
     boolean invertebrado;
 
+    /**
+     * Constructor Animal
+     * 
+     * @param id identificador tipo int de objeto.
+     * @param pelaje String tipo de pelo.
+     * @param grupo String grupo animal.
+     * @param invertebrado booleano tipo trur or false.
+     * 
+     *  Javadoc
+     */
     public AnimalModel(int id, String pelaje, String grupo, boolean invertebrado) {
         this.id = id;
         this.pelaje = pelaje;
@@ -23,6 +33,12 @@ public class AnimalModel {
         return id;
     }
 
+    /**
+     * Esta funcion asigna el identificador .
+     * 
+     * @param  id tipo integer.
+     * 
+     */
     public void setId(int id) {
         this.id = id;
     }

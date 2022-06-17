@@ -21,7 +21,7 @@ public class ClasesYObjetos {
 
         Scanner teclado = new Scanner(System.in);
 
-        animal.setId(0);
+        animal.setId(0); // aca ni dios ni yo se como funciona.
 
         System.out.println("Digite el pelaje");
 
